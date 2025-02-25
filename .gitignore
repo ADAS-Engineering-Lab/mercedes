@@ -1,3 +1,7 @@
 
 # Ignore Large Sensor Data Files
 data/sensor_data/
+
+# Ignore Large Image Dataset & CSV Files
+data/image_datasets/
+data/recalls/mercedes_recall_reports.csv
